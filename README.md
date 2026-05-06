@@ -15,6 +15,10 @@ The project compares three torque-prediction approaches for a flexible-link robo
 
 For each model, a Gaussian Mixture Regression residual model is trained to estimate the remaining torque error. This residual correction is used to improve torque prediction in the presence of flexible-link dynamics, compliance, vibration, friction mismatch, and other unmodeled effects.
 
+## Acknowledgment
+
+This repository was developed by MSc students [Maciek Popik](https://github.com/maciekpopik), and [Daniel Yang](https://github.com/Daniel98Yang) in the [Intelligent Dynamics and Control Lab (IDCL)](https://researchdirectory.ucalgary.ca/intelligent-dynamics-control), [Department of Mechanical and Manufacturing Engineering](https://schulich.ucalgary.ca/mechanical-manufacturing), Schulich School of Engineering, University of Calgary, under the supervision of [Dr. Mahdis Bisheban](https://profiles.ucalgary.ca/mahdis-bisheban). For more research and open-source contributions, please visit the [IDCL GitHub page](https://github.com/IDCL-UCalgary)
+
 ## Repository Structure
 
 ```text
@@ -25,6 +29,4 @@ For each model, a Gaussian Mixture Regression residual model is trained to estim
 └── data
     └── MERIt_0Payload_data.xlsx
 
-## Acknowledgment
 
-This repository was developed by MSc students [Maciek Popik](https://github.com/maciekpopik), and [Daniel Yang](https://github.com/Daniel98Yang) in the [Intelligent Dynamics and Control Lab (IDCL)](https://researchdirectory.ucalgary.ca/intelligent-dynamics-control), [Department of Mechanical and Manufacturing Engineering](https://schulich.ucalgary.ca/mechanical-manufacturing), Schulich School of Engineering, University of Calgary, under the supervision of [Dr. Mahdis Bisheban](https://profiles.ucalgary.ca/mahdis-bisheban). For more research and open-source contributions, please visit the [IDCL GitHub page](https://github.com/IDCL-UCalgary)
