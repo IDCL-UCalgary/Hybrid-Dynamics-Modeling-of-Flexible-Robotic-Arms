@@ -24,3 +24,7 @@ For each model, a Gaussian Mixture Regression residual model is trained to estim
 ├── 618Data_Final.ipynb
 └── data
     └── MERIt_0Payload_data.xlsx
+
+## Acknowledgment
+
+This repository was developed by MSc students [Maciek Popik](https://github.com/maciekpopik), and [Daniel Yang](https://github.com/Daniel98Yang) in the [Intelligent Dynamics and Control Lab (IDCL)](https://researchdirectory.ucalgary.ca/intelligent-dynamics-control), [Department of Mechanical and Manufacturing Engineering](https://schulich.ucalgary.ca/mechanical-manufacturing), Schulich School of Engineering, University of Calgary, under the supervision of [Dr. Mahdis Bisheban](https://profiles.ucalgary.ca/mahdis-bisheban). For more research and open-source contributions, please visit the [IDCL GitHub page](https://github.com/IDCL-UCalgary)
